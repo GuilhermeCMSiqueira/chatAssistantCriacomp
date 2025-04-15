@@ -30,3 +30,6 @@ Este projeto usa a API da OpenAI para responder perguntas com base em documentos
 - Faça perguntas sobre a Coordenação de Infraestrutura do CIn.
 - O assistente responde com base nos PDFs enviados.
 - Se a pergunta for ambígua ou fora do escopo, ele avisará que não pode responder.
+
+![image](https://github.com/user-attachments/assets/b47e9afa-e051-431a-a3ad-0ce443ff0030)
+
